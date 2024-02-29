@@ -2,7 +2,7 @@ repo_name: aimarsouris/keystone-nextjs-app
 report_id: 86443d0507864065ab2c753561507dcf
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T09:48:17+00:00'
+timestamp: '2024-02-29T19:44:20+00:00'
 requested_by: aimarsouris
 provider: github
 branch: main
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/aimarsouris/keystone-nextjs-app
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.3.0
   open_source: true
